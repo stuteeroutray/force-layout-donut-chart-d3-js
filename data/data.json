@@ -1,0 +1,582 @@
+{
+  "name": "Soviet SpaceDogs",
+  "img": "images/spacedog.png",
+  "children": [
+    {
+      "name": "R-1V",
+      "img": "images/rocket.png",
+      "children": [
+        {
+          "name": "Dezik",
+          "img": "images/Male-alive.png",
+          "size": 40000,
+          "year": "1951-07-22"
+        },
+        {
+          "name": "Tsygan",
+          "img": "images/Male-alive.png",
+          "size": 40000,
+          "year": "1951-07-22"
+        },
+        {
+          "name": "Ryzhik",
+          "img": "images/Male-alive.png",
+          "size": 40000,
+          "year": "1951-08-19"
+        },
+        {
+          "name": "Smeliy",
+          "img": "images/Male-alive.png",
+          "size": 40000,
+          "year": "1951-08-19"
+        }
+      ]
+    },
+    {
+      "name": "R-1B",
+      "img": "images/rocket.png",
+      "children": [
+        {
+          "name": "Dezik",
+          "img": "images/Male-dead.png",
+          "size": 40000,
+          "year": "1951-07-29"
+        },
+        {
+          "name": "Lisa",
+          "img": "images/Female-dead.png",
+          "size": 40000,
+          "year": "1951-07-29"
+        },
+        {
+          "name": "Chizhik",
+          "img": "images/Male-alive.png",
+          "size": 40000,
+          "year": "1951-08-15"
+        },
+        {
+          "name": "Mishka",
+          "img": "images/Male-alive.png",
+          "size": 40000,
+          "year": "1951-08-15"
+        },
+        {
+          "name": "Chizhik",
+          "img": "images/Male-dead.png",
+          "size": 40000,
+          "year": "1951-08-28"
+        },
+        {
+          "name": "Mishka",
+          "img": "images/Male-dead.png",
+          "size": 40000,
+          "year": "1951-08-28"
+        },
+        {
+          "name": "Neputeviy",
+          "img": "images/Male-alive.png",
+          "size": 40000,
+          "year": "1951-09-03"
+        },
+        {
+          "name": "ZIB",
+          "img": "images/Male-alive.png",
+          "size": 40000,
+          "year": "1951-09-03"
+        }
+      ]
+    },
+    {
+      "name": "R-1D",
+      "img": "images/rocket.png",
+      "children": [
+        {
+          "name": "Lisa-2",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1951-06-26"
+        },
+        {
+          "name": "Ryzhik-2",
+          "img": "images/Male-alive.png",
+          "size": 40000,
+          "year": "1951-06-26"
+        },
+        {
+          "name": "Damka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1954-07-02"
+        },
+        {
+          "name": "Mishka-2",
+          "img": "images/Male-alive.png",
+          "size": 40000,
+          "year": "1954-07-02"
+        },
+        {
+          "name": "Ryzhik-2",
+          "img": "images/Male-alive.png",
+          "size": 40000,
+          "year": "1954-07-07"
+        },
+        {
+          "name": "Damka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1954-07-07"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "img": "images/rocket.png",
+      "children": [
+        {
+          "name": "Lisa-2",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1954-07-26"
+        },
+        {
+          "name": "Ryzhik-3",
+          "img": "images/Male-alive.png",
+          "size": 40000,
+          "year": "1954-07-26"
+        },
+        {
+          "name": "Kozyavka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1958-09-19"
+        },
+        {
+          "name": "Damka-2",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1958-09-19"
+        },
+        {
+          "name": "Kusachka / Otvazhnaya",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1960-09-22"
+        },
+        {
+          "name": "Neva",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1960-09-22"
+        }
+      ]
+    },
+    {
+      "name": "R-1E",
+      "img": "images/rocket.png",
+      "children": [
+        {
+          "name": "Rita",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1955-01-25"
+        },
+        {
+          "name": "Linda",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1955-01-25"
+        },
+        {
+          "name": "Lisa-2",
+          "img": "images/Female-dead.png",
+          "size": 40000,
+          "year": "1955-02-05"
+        },
+        {
+          "name": "Bulba",
+          "img": "images/Female-dead.png",
+          "size": 40000,
+          "year": "1955-02-05"
+        },
+        {
+          "name": "Knopka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1955-11-04"
+        },
+        {
+          "name": "Malyshka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1955-11-04"
+        },
+        {
+          "name": "Albina",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1956-05-14"
+        },
+        {
+          "name": "Kozyavka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1956-05-14"
+        },
+        {
+          "name": "Linda",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1956-05-31"
+        },
+        {
+          "name": "Malyshka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1956-05-31"
+        },
+        {
+          "name": "Albina",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1956-06-07"
+        },
+        {
+          "name": "Kozyavka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1956-06-07"
+        },
+        {
+          "name": "Albina",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1956-06-14"
+        },
+        {
+          "name": "Kozyavka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1956-06-14"
+        }
+      ]
+    },
+    {
+      "name": "R-2A",
+      "img": "images/rocket.png",
+      "children": [
+        {
+          "name": "Damka-2",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1957-05-16"
+        },
+        {
+          "name": "Ryzhaya",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1957-05-16"
+        },
+        {
+          "name": "Dzhoyna",
+          "img": "images/Female-dead.png",
+          "size": 40000,
+          "year": "1957-05-24"
+        },
+        {
+          "name": "Ryzhaya",
+          "img": "images/Female-dead.png",
+          "size": 40000,
+          "year": "1957-05-24"
+        },
+        {
+          "name": "Belka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1957-08-25"
+        },
+        {
+          "name": "Modnitsa",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1957-08-25"
+        },
+        {
+          "name": "Damka-2",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1957-08-31"
+        },
+        {
+          "name": "Belka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1957-08-31"
+        },
+        {
+          "name": "Belka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1957-09-06"
+        },
+        {
+          "name": "Modnitsa",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1957-09-06"
+        },
+        {
+          "name": "Kusachka / Otvazhnaya",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1958-08-02"
+        },
+        {
+          "name": "Palma-2",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1958-08-02"
+        },
+        {
+          "name": "Kusachka / Otvazhnaya",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1958-08-13"
+        },
+        {
+          "name": "Palma-2",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1958-08-13"
+        },
+        {
+          "name": "Kusachka / Otvazhnaya",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1959-07-02"
+        },
+        {
+          "name": "Snezhinka / Zhemchuzhnaya",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1959-07-02"
+        },
+        {
+          "name": "Kusachka / Otvazhnaya",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1959-07-10"
+        },
+        {
+          "name": "Snezhinka / Zhemchuzhnaya",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1959-07-10"
+        },
+        {
+          "name": "Kusachka / Otvazhnaya",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1960-06-15"
+        },
+        {
+          "name": "Malyok",
+          "img": "images/Male-alive.png",
+          "size": 40000,
+          "year": "1960-06-15"
+        },
+        {
+          "name": "Kusachka / Otvazhnaya",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1960-06-24"
+        },
+        {
+          "name": "Snezhinka / Zhemchuzhnaya",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1960-06-24"
+        },
+        {
+          "name": "Palma-2",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1960-09-16"
+        },
+        {
+          "name": "Malyok",
+          "img": "images/Male-alive.png",
+          "size": 40000,
+          "year": "1960-09-16"
+        }
+      ]
+    },
+    {
+      "name": "R-7, Sputnik 2",
+      "img": "images/rocket.png",
+      "children": [
+        {
+          "name": "Laika",
+          "img": "images/Female-dead.png",
+          "size": 40000,
+          "year": "1957-11-03"
+        }
+      ]
+    },
+    {
+      "name": "R-5A",
+      "img": "images/rocket.png",
+      "children": [
+        {
+          "name": "Palma",
+          "img": "images/Female-dead.png",
+          "size": 40000,
+          "year": "1958-02-21"
+        },
+        {
+          "name": "Pushok",
+          "img": "images/Male-dead.png",
+          "size": 40000,
+          "year": "1958-02-21"
+        },
+        {
+          "name": "Belyanka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1958-08-27"
+        },
+        {
+          "name": "Pestraya",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1958-08-27"
+        },
+        {
+          "name": "Knopka",
+          "img": "images/Female-dead.png",
+          "size": 40000,
+          "year": "1958-10-31"
+        },
+        {
+          "name": "Zhulba",
+          "img": "images/Female-dead.png",
+          "size": 40000,
+          "year": "1958-10-31"
+        }
+      ]
+    },
+    {
+      "name": "R-7, Vostok Prototype",
+      "img": "images/rocket.png",
+      "children": [
+        {
+          "name": "Lisichka",
+          "img": "images/Female-dead.png",
+          "size": 40000,
+          "year": "1960-07-28"
+        },
+        {
+          "name": "Bars / Chaika",
+          "img": "images/Female-dead.png",
+          "size": 40000,
+          "year": "1960-07-28"
+        }
+      ]
+    },
+    {
+      "name": "R-7, Sputnik 5",
+      "img": "images/rocket.png",
+      "children": [
+        {
+          "name": "Belka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1960-08-19"
+        },
+        {
+          "name": "Strelka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1960-08-19"
+        }
+      ]
+    },
+    {
+      "name": "R-7, Sputnik 6",
+      "img": "images/rocket.png",
+      "children": [
+        {
+          "name": "Mushka",
+          "img": "images/Female-dead.png",
+          "size": 40000,
+          "year": "1960-12-01"
+        },
+        {
+          "name": "Pchyolka",
+          "img": "images/Female-dead.png",
+          "size": 40000,
+          "year": "1960-12-01"
+        }
+      ]
+    },
+    {
+      "name": "R-7",
+      "img": "images/rocket.png",
+      "children": [
+        {
+          "name": "Shutka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1960-12-22"
+        },
+        {
+          "name": "Kometka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1960-12-22"
+        }
+      ]
+    },
+    {
+      "name": "R-7, Sputnik 9",
+      "img": "images/rocket.png",
+      "children": [
+        {
+          "name": "Chernuskha",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1961-03-09"
+        }
+      ]
+    },
+    {
+      "name": "R-7, Sputnik 10",
+      "img": "images/rocket.png",
+      "children": [
+        {
+          "name": "Zvezdochka",
+          "img": "images/Female-alive.png",
+          "size": 40000,
+          "year": "1961-03-25"
+        }
+      ]
+    },
+    {
+      "name": "Voskhod, Cosmos 110",
+      "img": "images/rocket.png",
+      "children": [
+        {
+          "name": "Ugolyok / Snezhok",
+          "img": "images/Male-alive.png",
+          "size": 40000,
+          "year": "1966-02-22"
+        },
+        {
+          "name": "Veterok / Bzdunok",
+          "img": "images/Male-alive.png",
+          "size": 40000,
+          "year": "1966-02-22"
+        }
+      ]
+    }
+  ]
+}
