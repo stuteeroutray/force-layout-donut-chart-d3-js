@@ -1,4 +1,4 @@
-### Innovative Visualization
+### Innovative Visualization ([Link](https://stuteeroutray.github.io/innovative-vis-d3-js/))
 
 This assignment was done as part of CSE 578 - Data Visualization coursework at Arizona State University.
 The task was to create an unique visualization that goes beyond the "common chart types" that already exist. At least three different attributes containing at least one quantatitive and one categorical attribute were to be visualized for this assignment.
